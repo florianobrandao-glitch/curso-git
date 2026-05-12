@@ -1,1 +1,1 @@
-# curso-git
+Testado e usando o github
